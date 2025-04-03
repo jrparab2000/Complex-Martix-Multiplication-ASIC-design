@@ -1,0 +1,17 @@
+# transcript error: error writing "stdout": broken pipe
+    while executing
+"puts -nonewline stdout $s"
+# Current time Tue Nov 21 09:54:01 2023
+# ModelSim SE Stack Trace
+# Program = vish
+# Id = "2021.2"
+# Version = "2021.04"
+# Date = "Apr 14 2021"
+# Platform = "linux"
+# 0    0x08662f2d: '<unknown (@0x8662f2d)>'
+# 1    0x08561abb: 'TclInvokeStringCommand + 0x7b' in '/mnt/apps/public/COE/mg_apps/modelsim2021.2/linux/vish'
+# 2    0x0a12d093: '<unknown (@0xa12d093)>'
+# 3    0x0a2bf143: '<unknown (@0xa2bf143)>'
+# transcript error: error writing "stdout": broken pipe
+    while executing
+"puts -nonewline stdout $s"
